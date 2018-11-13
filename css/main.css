@@ -12,7 +12,7 @@ html {
 }
 
 a:focus {
-  outline: 3px solid #ffff00;
+  outline: 3px solid #ff0;
 }
 
 .section-dark {
